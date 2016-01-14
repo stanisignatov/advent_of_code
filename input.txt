@@ -1,0 +1,2 @@
+turn on 5,10 through 6,900
+turn on 7,10 through 10,12
